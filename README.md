@@ -57,24 +57,24 @@ DEBUG=True
 ```
 ---
 ## ⚙️ Setup (Local Development)
-- **Clone Repo**
+**Clone Repo**
 ```bash
 git clone git@github.com:lordpacificsmartly/hng-stage1-string-analyzer.git
 cd hng-stage1-string-analyzer
-- ```
-- **Create Virtual Environment & Install Dependencies**
+```
+**Create Virtual Environment & Install Dependencies**
 ```base
 python -m venv .venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ---
-- **Run the API**
+**Run the API**
 ```bash
 uvicorn app.main:app --reload --port 8000
-- ```
+```
 ---
-- **🧪 Running Tests**
+**🧪 Running Tests**
 ```bash
 python -m pytest -q
 ```
