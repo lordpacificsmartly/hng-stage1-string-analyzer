@@ -16,8 +16,8 @@ It is a RESTful API built with **FastAPI** that:
 ---
 
 ## 👤 Author
-- **Name:** [Your Full Name Here]  
-- **Email:** [Your Email Here]  
+- **Name:** Jesse Onoyeyan 
+- **Email:** jesseonoyeyan@gmail.com 
 - **Stack:** Python (FastAPI)
 
 ---
