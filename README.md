@@ -47,7 +47,7 @@ This project uses environment variables from a `.env` file.
 ### `.env.example`
 Committed to the repo to show required variables:
 ```env
-# Example environment variables
+# Environment variables
 # Database connection string
 DATABASE_URL=sqlite:///./strings.db
 
